@@ -1,0 +1,51 @@
+h1 {
+    margin: 0px auto;
+    text-align: center;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px; 
+  }
+
+nav {
+    margin: 0px auto;
+    text-align: center;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 15.4px;
+}
+
+.menu {
+    display: inline-block;
+}
+
+body {
+    width: 960px;
+    margin: 0px auto;
+    background-color: white;
+  }
+
+.tiles {
+    display: inline-block;  
+    margin: 0px auto;
+    text-align: center;
+    
+}
+
+p {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px;
+}
+
+img {
+    height: 100px;
+}
