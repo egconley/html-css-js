@@ -7,6 +7,8 @@ h1 {
     font-variant: normal; 
     font-weight: 700; 
     line-height: 26.4px; 
+    background-color: #FDF2FF;
+    padding: 10px;
   }
 
 nav {
@@ -18,6 +20,7 @@ nav {
     font-variant: normal; 
     font-weight: 700; 
     line-height: 15.4px;
+    background-color: #DED1E8;
 }
 
 h3 {
@@ -29,16 +32,18 @@ h3 {
     font-variant: normal; 
     font-weight: 700; 
     line-height: 15.4px;
+    padding: 10px;
 }
 
 .menu {
     display: inline-block;
+    background-color: #FFE6ED;
 }
 
 body {
     width: 960px;
     margin: 0px auto;
-    background-color: white;
+    background-color: #EDE6FF;
   }
 
 .tiles {
@@ -58,5 +63,5 @@ p, footer {
 }
 
 img {
-    height: 100px;
+    height: 210px;
 }
