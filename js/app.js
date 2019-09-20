@@ -12,11 +12,11 @@ function likeDogs() {
             howMany = Number(prompt('How many dogs are you interested in connecting with?'));
         }
             var result = '';
-            for (i=0; i < (howMany); i++) {
+            for (i=0; i < howMany; i++) {
                 count = i + 1;
-                result = '<div>' + result + count + dog + '</div>';  
+                result = '<div>' + result + count + dog + '</div>'; 
             }
-            return result; 
+            return result;        
     }
     else {
         return 'You may want to check out our sister site, Cat Tinder.';
